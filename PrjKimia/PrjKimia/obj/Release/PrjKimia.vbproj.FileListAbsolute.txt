@@ -1,0 +1,30 @@
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\bin\Release\PrjKimia.exe
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\bin\Release\PrjKimia.pdb
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\bin\Release\PrjKimia.xml
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.LChem.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.MainKimia.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.Resources.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.vbproj.GenerateResource.Cache
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.exe
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.xml
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.pdb
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.LChemSerial.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.vbprojResolveAssemblyReference.cache
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.LChemAdd.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.LChemUse.resources
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\bin\Release\PrjKimia.exe.config
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\bin\Release\PrjKimia.exe
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\bin\Release\PrjKimia.pdb
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\bin\Release\PrjKimia.xml
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.vbproj.AssemblyReference.cache
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.LChem.resources
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.LChemAdd.resources
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.LChemSerial.resources
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.LChemUse.resources
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.MainKimia.resources
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.Resources.resources
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.vbproj.GenerateResource.cache
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.vbproj.CoreCompileInputs.cache
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.exe
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.xml
+F:\Company Software\UG Software\Gudang Kimia\PrjKimia\PrjKimia\obj\Release\PrjKimia.pdb

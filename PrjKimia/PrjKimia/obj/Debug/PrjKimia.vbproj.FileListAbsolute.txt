@@ -1,0 +1,14 @@
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\bin\Debug\PrjKimia.exe
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\bin\Debug\PrjKimia.pdb
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\bin\Debug\PrjKimia.xml
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.Resources.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.vbproj.GenerateResource.Cache
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.exe
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.xml
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.pdb
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.MainKimia.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.LChem.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.LChemSerial.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.LChemAdd.resources
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.vbprojResolveAssemblyReference.cache
+C:\Users\Merihim\Desktop\Gudang Kimia\PrjKimia\PrjKimia\obj\Debug\PrjKimia.LChemUse.resources
