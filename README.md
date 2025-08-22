@@ -1,2 +1,2 @@
-# ChemCodex
-This is POS for WareStock from my Previous Project
+
+This is POS for Chemical WareStock from my Previous Project
